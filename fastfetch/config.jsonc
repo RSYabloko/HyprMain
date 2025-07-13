@@ -1,0 +1,103 @@
+{
+  "logo": {
+  	"type": "file"
+  },
+
+  "modules": [
+    {
+      "type": "custom",
+      "format": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓"
+    },
+
+    {
+      "type": "os",
+      "key": "OS",
+      "keyColor": "blue"
+    },
+
+    {
+      "type": "kernel",
+      "key": "KR",
+      "keyColor": "blue"
+    },
+
+    {
+      "type": "wm",
+      "key": "WM",
+      "keyColor": "blue"
+    },
+
+    "break",
+    {
+      "type": "cpu",
+      "key": "CPU",
+      "keyColor": "white"
+    },
+
+    { 
+      "type": "gpu",
+      "key": "GPU", 
+      "keyColor": "white"
+    },
+
+    {
+      "type": "memory",
+      "key": "MEM",
+      "keyColor": "white"
+    },
+
+      {
+      "type": "swap",
+      "key": "SWP",
+      "keyColor": "white"
+    },
+
+
+    "break",
+     {
+      "type": "packages",
+      "key": "PC",
+      "keyColor": "magenta"
+    },
+    
+    {
+      "type": "terminal",
+      "key": "TR",
+      "keyColor": "magenta"
+    },
+
+    {
+      "type": "shell",
+      "key": "SH",
+      "keyColor": "magenta"
+    },
+
+    {
+      "type": "localip",
+      "key": "IP",
+      "keyColor": "magenta"
+    },
+
+    {
+      "type": "custom",
+      "format": "┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛"
+    },
+
+    {
+      "type": "uptime",
+      "key": "UT",
+      "keyColor": "green"
+    },
+
+    {
+      "type": "custom",
+      "format": ""
+    },
+
+    {
+      "type": "custom",
+      "format": "⏳Not Today"
+    }
+
+  ]
+}
